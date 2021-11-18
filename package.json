@@ -1,0 +1,25 @@
+{
+  "name": "data-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv": "^5.5.0",
+    "csv-parse": "^4.16.0",
+    "dayjs": "^1.10.4",
+    "form-data": "^4.0.0",
+    "js-yaml": "^4.0.0",
+    "lodash": "^4.17.21",
+    "node-yaml": "^4.0.1",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.5.0",
+    "sequelize-auto": "^0.8.0"
+  }
+}
